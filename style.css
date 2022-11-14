@@ -1,0 +1,19 @@
+.hello{
+    padding:10px
+}
+.footer{
+    position:fixed;
+    bottom:0;
+    background-color: rgb(165, 165, 165);
+    width:100%;
+    
+}
+canvas{
+    background-color: aquamarine;
+    border:5px solid burlywood;
+    border-radius:20px;
+}
+video{
+    border:5px solid black;
+    border-radius: 20px;
+}
